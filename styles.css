@@ -97,9 +97,6 @@ article {
     height:100%;
     border-bottom: .2rem solid var(--light-green);
 }
-.nav_anchor:hover {
-    background-color: rgba(0, 128, 0, 0.466);
-}
 
 .hidden {
     transform: translateY(-100%);
